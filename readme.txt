@@ -16,14 +16,15 @@ Securing a website is the most challenging task facing by web developers. Since 
   
 Even though there are plenty of plugins available for protecting WordPress site, there are lots of attacking occurs each day. The main advantage getting for malware or attacker is they have full idea of structure of WordPress and plugins. Normal WordPress site is so open that some one can find out lots of details if they only know the URL of web site. See the online tools as example: http://wprecon.com/
 
-Based on these concept we made a plugin 'WP_Hide' which will help you to hide the fact that you are using WordPress for website development. WP-Hide, change all the site related path and details from source so that no programs will get any hint that the site is developed using  WordPress.  
+https://www.youtube.com/watch?v=FPR7IRX1mLs
 
+Based on these concept we made a plugin 'WP_Hide' which will help you to hide the fact that you are using WordPress for website development. WP-Hide, change all the site related path and details from source so that no programs will get any hint that the site is developed using  WordPress.  
+Developer:-We are weberge, a leading website development company in india.
+Visit us http://www.weberge.com/
+ 
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
 
 1. Upload 'wp-hide' to the '/wp-content/plugins/'' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
